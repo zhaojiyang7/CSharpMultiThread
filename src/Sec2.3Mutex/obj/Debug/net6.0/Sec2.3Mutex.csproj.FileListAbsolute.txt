@@ -1,0 +1,15 @@
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\bin\Debug\net6.0\Sec2.3Mutex.exe
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\bin\Debug\net6.0\Sec2.3Mutex.deps.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\bin\Debug\net6.0\Sec2.3Mutex.runtimeconfig.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\bin\Debug\net6.0\Sec2.3Mutex.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\bin\Debug\net6.0\Sec2.3Mutex.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.csproj.AssemblyReference.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.AssemblyInfoInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.AssemblyInfo.cs
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.csproj.CoreCompileInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\refint\Sec2.3Mutex.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\Sec2.3Mutex.genruntimeconfig.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.3Mutex\obj\Debug\net6.0\ref\Sec2.3Mutex.dll

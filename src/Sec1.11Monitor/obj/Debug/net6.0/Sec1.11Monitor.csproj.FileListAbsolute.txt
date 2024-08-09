@@ -1,0 +1,15 @@
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\bin\Debug\net6.0\Sec1.11Monitor.exe
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\bin\Debug\net6.0\Sec1.11Monitor.deps.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\bin\Debug\net6.0\Sec1.11Monitor.runtimeconfig.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\bin\Debug\net6.0\Sec1.11Monitor.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\bin\Debug\net6.0\Sec1.11Monitor.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.csproj.AssemblyReference.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.AssemblyInfoInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.AssemblyInfo.cs
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.csproj.CoreCompileInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\refint\Sec1.11Monitor.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\Sec1.11Monitor.genruntimeconfig.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.11Monitor\obj\Debug\net6.0\ref\Sec1.11Monitor.dll

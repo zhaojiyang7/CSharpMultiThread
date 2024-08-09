@@ -1,0 +1,15 @@
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\bin\Debug\net6.0\sec2.5AutoResetEvent.exe
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\bin\Debug\net6.0\sec2.5AutoResetEvent.deps.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\bin\Debug\net6.0\sec2.5AutoResetEvent.runtimeconfig.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\bin\Debug\net6.0\sec2.5AutoResetEvent.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\bin\Debug\net6.0\sec2.5AutoResetEvent.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.csproj.AssemblyReference.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.AssemblyInfo.cs
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\refint\sec2.5AutoResetEvent.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\sec2.5AutoResetEvent.genruntimeconfig.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\sec2.5AutoResetEvent\obj\Debug\net6.0\ref\sec2.5AutoResetEvent.dll

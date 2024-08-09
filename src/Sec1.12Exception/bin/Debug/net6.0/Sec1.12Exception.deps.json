@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sec1.12Exception/1.0.0": {
+        "runtime": {
+          "Sec1.12Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sec1.12Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

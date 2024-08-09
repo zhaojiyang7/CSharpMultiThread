@@ -1,0 +1,15 @@
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\bin\Debug\net6.0\Sec2.4.exe
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\bin\Debug\net6.0\Sec2.4.deps.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\bin\Debug\net6.0\Sec2.4.runtimeconfig.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\bin\Debug\net6.0\Sec2.4.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\bin\Debug\net6.0\Sec2.4.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.csproj.AssemblyReference.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.AssemblyInfoInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.AssemblyInfo.cs
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.csproj.CoreCompileInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\refint\Sec2.4.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\Sec2.4.genruntimeconfig.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec2.4\obj\Debug\net6.0\ref\Sec2.4.dll

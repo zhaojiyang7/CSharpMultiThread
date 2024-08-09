@@ -1,0 +1,15 @@
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\bin\Debug\net6.0\Sec1.12Exception.exe
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\bin\Debug\net6.0\Sec1.12Exception.deps.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\bin\Debug\net6.0\Sec1.12Exception.runtimeconfig.json
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\bin\Debug\net6.0\Sec1.12Exception.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\bin\Debug\net6.0\Sec1.12Exception.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.csproj.AssemblyReference.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.AssemblyInfoInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.AssemblyInfo.cs
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.csproj.CoreCompileInputs.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\refint\Sec1.12Exception.dll
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.pdb
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\Sec1.12Exception.genruntimeconfig.cache
+C:\Users\jiyang.zhao\Desktop\你看不见我\DesignPattern\src\Sec1.12Exception\obj\Debug\net6.0\ref\Sec1.12Exception.dll
