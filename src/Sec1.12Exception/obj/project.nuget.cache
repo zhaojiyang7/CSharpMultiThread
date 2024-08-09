@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pO5/cAzvUPC6Di/MulR4862DilryJQ5a+J9azDHYahIehDascfMClOvD8SwXwH9yJPYm7wwwyOxAObzWfjk+hA==",
+  "dgSpecHash": "9NcrcH50YvdVpgOo09+eD6/WJrEejIaqYx9OM4YJnXYpV/tZvHeX98d2Jw1a7yalB0eu22Q5g9tTlDuRvdEoSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jiyang.zhao\\Desktop\\你看不见我\\DesignPattern\\src\\Sec1.12Exception\\Sec1.12Exception.csproj",
+  "projectFilePath": "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec1.12Exception\\Sec1.12Exception.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.uihcloud.cn/repository/nuget-hswgroup-dev/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiyang.zhao\\Desktop\\你看不见我\\DesignPattern\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj": {}
+    "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiyang.zhao\\Desktop\\你看不见我\\DesignPattern\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj": {
+    "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiyang.zhao\\Desktop\\你看不见我\\DesignPattern\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj",
+        "projectUniqueName": "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj",
         "projectName": "Sec2.3Mutex",
-        "projectPath": "C:\\Users\\jiyang.zhao\\Desktop\\你看不见我\\DesignPattern\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj",
-        "packagesPath": "F:\\nuget\\packages",
-        "outputPath": "C:\\Users\\jiyang.zhao\\Desktop\\你看不见我\\DesignPattern\\src\\Sec2.3Mutex\\obj\\",
+        "projectPath": "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec2.3Mutex\\Sec2.3Mutex.csproj",
+        "packagesPath": "C:\\Users\\Eddie\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec2.3Mutex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jiyang.zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "http://nexus.uihcloud.cn/repository/nuget-hswgroup-dev/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
