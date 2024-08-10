@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\bin\Debug\net6.0\Sec3.4.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\bin\Debug\net6.0\Sec3.4.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\bin\Debug\net6.0\Sec3.4.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\bin\Debug\net6.0\Sec3.4.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\bin\Debug\net6.0\Sec3.4.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\refint\Sec3.4.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\Sec3.4.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.4\obj\Debug\net6.0\ref\Sec3.4.dll

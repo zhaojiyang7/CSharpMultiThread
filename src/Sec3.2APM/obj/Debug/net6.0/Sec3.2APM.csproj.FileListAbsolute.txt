@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\bin\Debug\net6.0\Sec3.2APM.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\bin\Debug\net6.0\Sec3.2APM.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\bin\Debug\net6.0\Sec3.2APM.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\bin\Debug\net6.0\Sec3.2APM.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\bin\Debug\net6.0\Sec3.2APM.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\refint\Sec3.2APM.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\Sec3.2APM.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec3.2APM\obj\Debug\net6.0\ref\Sec3.2APM.dll

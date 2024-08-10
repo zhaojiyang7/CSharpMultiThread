@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\bin\Debug\net6.0\Sec4.4CombineTask.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\bin\Debug\net6.0\Sec4.4CombineTask.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\bin\Debug\net6.0\Sec4.4CombineTask.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\bin\Debug\net6.0\Sec4.4CombineTask.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\bin\Debug\net6.0\Sec4.4CombineTask.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\refint\Sec4.4CombineTask.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\Sec4.4CombineTask.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.4CombineTask\obj\Debug\net6.0\ref\Sec4.4CombineTask.dll

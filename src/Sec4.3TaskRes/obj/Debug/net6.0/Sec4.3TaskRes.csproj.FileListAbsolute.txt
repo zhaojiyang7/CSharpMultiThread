@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\bin\Debug\net6.0\Sec4.3TaskRes.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\bin\Debug\net6.0\Sec4.3TaskRes.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\bin\Debug\net6.0\Sec4.3TaskRes.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\bin\Debug\net6.0\Sec4.3TaskRes.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\bin\Debug\net6.0\Sec4.3TaskRes.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\refint\Sec4.3TaskRes.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\Sec4.3TaskRes.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec4.3TaskRes\obj\Debug\net6.0\ref\Sec4.3TaskRes.dll

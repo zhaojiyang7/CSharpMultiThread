@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sec3.6TimeOut/1.0.0": {
+        "runtime": {
+          "Sec3.6TimeOut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sec3.6TimeOut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
