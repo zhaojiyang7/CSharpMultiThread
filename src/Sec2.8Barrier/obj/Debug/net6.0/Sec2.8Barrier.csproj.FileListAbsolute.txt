@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\bin\Debug\net6.0\Sec2.8Barrier.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\bin\Debug\net6.0\Sec2.8Barrier.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\bin\Debug\net6.0\Sec2.8Barrier.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\bin\Debug\net6.0\Sec2.8Barrier.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\bin\Debug\net6.0\Sec2.8Barrier.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\refint\Sec2.8Barrier.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\Sec2.8Barrier.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.8Barrier\obj\Debug\net6.0\ref\Sec2.8Barrier.dll

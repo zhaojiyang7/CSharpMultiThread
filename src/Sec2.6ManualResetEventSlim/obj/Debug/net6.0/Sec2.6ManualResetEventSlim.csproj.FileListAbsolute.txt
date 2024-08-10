@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\bin\Debug\net6.0\Sec2.6ManualResetEventSlim.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\bin\Debug\net6.0\Sec2.6ManualResetEventSlim.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\bin\Debug\net6.0\Sec2.6ManualResetEventSlim.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\bin\Debug\net6.0\Sec2.6ManualResetEventSlim.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\bin\Debug\net6.0\Sec2.6ManualResetEventSlim.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\refint\Sec2.6ManualResetEventSlim.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\Sec2.6ManualResetEventSlim.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.6ManualResetEventSlim\obj\Debug\net6.0\ref\Sec2.6ManualResetEventSlim.dll

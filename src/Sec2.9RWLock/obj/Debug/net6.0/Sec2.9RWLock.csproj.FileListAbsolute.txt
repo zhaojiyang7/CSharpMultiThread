@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\bin\Debug\net6.0\Sec2.9RWLock.exe
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\bin\Debug\net6.0\Sec2.9RWLock.deps.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\bin\Debug\net6.0\Sec2.9RWLock.runtimeconfig.json
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\bin\Debug\net6.0\Sec2.9RWLock.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\bin\Debug\net6.0\Sec2.9RWLock.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.AssemblyInfo.cs
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\refint\Sec2.9RWLock.dll
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.pdb
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\Sec2.9RWLock.genruntimeconfig.cache
+E:\WorkSpace\CSharpMultiThread\CSharpMultiThread\src\Sec2.9RWLock\obj\Debug\net6.0\ref\Sec2.9RWLock.dll
