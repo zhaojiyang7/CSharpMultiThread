@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "AmIhNsnU1PStsaqYIreM8ErAaggTiRRZtKs4R4X2ub8YedJQVDZb/q0Efg/SEV+TrHxaT8X+ccAnH3iz+1P/jg==",
+  "dgSpecHash": "uI/XEIbDXitihtIpFkzILGdXxedG+hu4rRyIeFppNAVsxs+0eX/KHDzni23LUkQPV08CO0OHlPmFunzAlZmqZg==",
   "success": true,
-  "projectFilePath": "E:\\WorkSpace\\CSharpMultiThread\\CSharpMultiThread\\src\\Sec3.3\\Sec3.3.csproj",
+  "projectFilePath": "E:\\workspace\\CSharpMultiThread\\src\\Sec3.3\\Sec3.3.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.uihcloud.cn/repository/nuget-hswgroup-dev/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

@@ -1,0 +1,15 @@
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.csproj.AssemblyReference.cache
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.AssemblyInfoInputs.cache
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.AssemblyInfo.cs
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.csproj.CoreCompileInputs.cache
+E:\workspace\CSharpMultiThread\src\Sec5.2\bin\Debug\net6.0\Sec5.2.exe
+E:\workspace\CSharpMultiThread\src\Sec5.2\bin\Debug\net6.0\Sec5.2.deps.json
+E:\workspace\CSharpMultiThread\src\Sec5.2\bin\Debug\net6.0\Sec5.2.runtimeconfig.json
+E:\workspace\CSharpMultiThread\src\Sec5.2\bin\Debug\net6.0\Sec5.2.dll
+E:\workspace\CSharpMultiThread\src\Sec5.2\bin\Debug\net6.0\Sec5.2.pdb
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.dll
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\refint\Sec5.2.dll
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.pdb
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\Sec5.2.genruntimeconfig.cache
+E:\workspace\CSharpMultiThread\src\Sec5.2\obj\Debug\net6.0\ref\Sec5.2.dll

@@ -1,0 +1,15 @@
+E:\workspace\CSharpMultiThread\src\Sec5.3\bin\Debug\net6.0\Sec5.3.exe
+E:\workspace\CSharpMultiThread\src\Sec5.3\bin\Debug\net6.0\Sec5.3.deps.json
+E:\workspace\CSharpMultiThread\src\Sec5.3\bin\Debug\net6.0\Sec5.3.runtimeconfig.json
+E:\workspace\CSharpMultiThread\src\Sec5.3\bin\Debug\net6.0\Sec5.3.dll
+E:\workspace\CSharpMultiThread\src\Sec5.3\bin\Debug\net6.0\Sec5.3.pdb
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.csproj.AssemblyReference.cache
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.AssemblyInfoInputs.cache
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.AssemblyInfo.cs
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.csproj.CoreCompileInputs.cache
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.dll
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\refint\Sec5.3.dll
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.pdb
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\Sec5.3.genruntimeconfig.cache
+E:\workspace\CSharpMultiThread\src\Sec5.3\obj\Debug\net6.0\ref\Sec5.3.dll
